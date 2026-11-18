@@ -96,8 +96,8 @@ This repository is currently in active development. Codebase structure is being 
 ### Installation
 
 ```bash
-git clone https://github.com/kgeyyas/fta-rules-of-origin-checker.git
-cd fta-rules-of-origin-checker
+git clone https://github.com/kgeyyas/rules-of-origin-checker.git
+cd rules-of-origin-checker
 ```
 
 ---
